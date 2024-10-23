@@ -7,4 +7,4 @@ Project 3 teams:
 - Team 3: Stephanie Chiang, Ying Fang Lee, Chi Hang (Philip) Cheung, and Brandon Chung
 - Team 4: Zaneta Paulusova, Inna Yedzinovich, Asadul Islam, Md Asaduzzaman
 - Team 5: Ariba Mandavia, Jose Fuentes, Marco Castro, Steven Gonzalez
-- Team 6:
+- Team 6: Shri Tripathi, Jayden Jiang,
